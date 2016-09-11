@@ -2,6 +2,6 @@
 
 ## I test headings
 
-## A smaller heading
+### A smaller heading
 
 This is a test repo for Coursera
